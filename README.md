@@ -2,7 +2,7 @@
 
 **Turn messy Excel workout logs into actionable strength training insights.**
 
-Nerd Fit is a Python-based data pipeline and dashboard that solves a common problem for lifters: **Data Fragmentation**. It takes human-readable (hierarchical) Excel logs, cleans and normalizes the data, and visualizes progress over time using the Brzycki 1-Rep Max formula.
+Fit Geek is a Python-based data pipeline and dashboard that solves a common problem for lifters: **Data Fragmentation**. It takes human-readable (hierarchical) Excel logs, cleans and normalizes the data, and visualizes progress over time using the Brzycki 1-Rep Max formula.
 
 ---
 
