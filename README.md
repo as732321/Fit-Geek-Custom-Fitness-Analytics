@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Nerd Fit 1.0 
+# 🏋️‍♂️ Fit Geek 1.0 
 
 **Turn messy Excel workout logs into actionable strength training insights.**
 
